@@ -21,6 +21,9 @@ section div:nth-child(1) {
     font-weight: bolder;
     font-size: 28px;
 }
+section div:nth-child(6) {
+    font-weight: bolder;
+}
 section div:nth-child(7) {
     grid-column-start: 1;
     grid-column-end: 2;
